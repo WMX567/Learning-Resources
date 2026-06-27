@@ -38,7 +38,7 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 - [Convex Optimization by Stephen Boyd and Lieven Vandenberghe](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Math-and-Algorithm-Learning/Math/convex_optimization.pdf)
 
 ## <a name="5">Math Learning Notes</a>
-Coming soon...
+- [Functional Analysis (Second Half of Folland's Analysis](https://wmx567.github.io/static/notes/notes_on_functional_analysis.pdf)
 
 ## <a name="6">Algorithm Learning Resources</a>
 ### <a name="7">Data Structure and Algorithms</a>
