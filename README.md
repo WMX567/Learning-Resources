@@ -9,7 +9,7 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 4. [Optimization](#4)
 5. [Data Structure and Algorithms](#5)
 6. [Machine Learning](#6)
-6. [Notes](#7)
+6. [My Notes](#7)
    - [Introduction to Algorithms](#8)
    - [Graph Learning](#9)
    - [Transfer Learning](#10)
