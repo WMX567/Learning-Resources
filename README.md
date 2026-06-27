@@ -7,16 +7,14 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 2. [Algebra](#2)
 3. [Statistics](#3)
 4. [Optimization](#4)
-5. [Algorithm Learning Resources](#5)
-   - [Data Structure and Algorithms](#6)
-   - [Machine Learning](#7)
-   - [Graph Learning](#8)
-6. [Notes](#9)
-   - [Introduction to Algorithms](#10)
-   - [Graph Learning](#11)
-   - [Transfer Learning](#12)
-   - [Learning Theory](#13)
-   - [Functional Analysis](#14)
+5. [Data Structure and Algorithms](#5)
+6. [Machine Learning](#6)
+6. [Notes](#7)
+   - [Introduction to Algorithms](#8)
+   - [Graph Learning](#9)
+   - [Transfer Learning](#10)
+   - [Learning Theory](#11)
+   - [Functional Analysis](#12)
 
 ---
 
@@ -43,28 +41,24 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 
 - [Convex Optimization by Boyd and Vandenberghe](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/convex_optimization.pdf)
 
-## <a name="5"></a>Algorithm Learning Resources
 
-### <a name="6"></a>Data Structure and Algorithms
+## <a name="5"></a>Data Structure and Algorithms
 
 - [Introduction to Algorithms (CLRS)](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
 - [Algorithm Design by Kleinberg and Tardos](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Algorithm%20Design.pdf)
 
-### <a name="7"></a>Machine Learning
+## <a name="6"></a>Machine Learning
 
 - [Information Theory, Inference, and Learning Algorithms](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Information%20Theory%2C%20Inference%2C%20and%20Learning%20Algorithms.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/understanding-machine-learning-theory-algorithms.pdf)
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 - [Statistical Learning and Sequential Prediction](https://www.mit.edu/~rakhlin/courses/stat928/stat928_notes.pdf)
+- [Graph Representation Learning by William L. Hamilton](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/GRL_Book.pdf)
 - [Online Learning](https://haipeng-luo.net/courses/CSCI659/2022_fall/index.html)
 
-### <a name="8"></a>Graph Learning
+## <a name="7"></a>Notes
 
-- [Graph Representation Learning by William L. Hamilton](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/GRL_Book.pdf)
-
-## <a name="9"></a>Notes
-
-### <a name="10"></a>Introduction to Algorithms
+### <a name="8"></a>Introduction to Algorithms
 
 - [Chapter 6](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Intro_Algo_Cha6_Reading.pdf)
 - [Chapter 10](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Intro_Algo_Cha10_Reading.pdf)
@@ -74,18 +68,18 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 - [Max-Min Heap](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Max_Min_Heap.pdf)
 - [Data Structure](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Data_Structure.pdf)
 
-### <a name="11"></a>Graph Learning
+### <a name="9"></a>Graph Learning
 
 - [Graph Convolutional Neural Network](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Graph_Convolutional_Neural_Network.pdf)
 
-### <a name="12"></a>Transfer Learning
+### <a name="10"></a>Transfer Learning
 
 - [Maximum Mean Discrepancy](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/mmd.pdf)
 
-### <a name="13"></a>Learning Theory
+### <a name="11"></a>Learning Theory
 
 - [Probably Approximately Correct Learning](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/pac.pdf)
 
-### <a name="14"></a>Functional Analysis
+### <a name="12"></a>Functional Analysis
 
 - [Functional Analysis (Second Half of Folland's Analysis)](https://wmx567.github.io/static/notes/notes_on_functional_analysis.pdf)
