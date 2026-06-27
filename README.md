@@ -45,7 +45,7 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 ## <a name="5"></a>Data Structure and Algorithms
 
 - [Introduction to Algorithms (CLRS)](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
-- [Algorithm Design by Kleinberg and Tardos](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Algorithm%20Design.pdf)
+- [Algorithm Design](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/Algorithm%20Design.pdf)
 
 ## <a name="6"></a>Machine Learning
 
@@ -53,10 +53,10 @@ A collection of books/notes for Math and Algorithm study. All files are in PDF f
 - [Understanding Machine Learning: From Theory to Algorithms](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/understanding-machine-learning-theory-algorithms.pdf)
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 - [Statistical Learning and Sequential Prediction](https://www.mit.edu/~rakhlin/courses/stat928/stat928_notes.pdf)
-- [Graph Representation Learning by William L. Hamilton](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/GRL_Book.pdf)
+- [Graph Representation Learning](https://github.com/WMX567/Math-and-Algorithm-Learning/blob/master/Files/GRL_Book.pdf)
 - [Online Learning](https://haipeng-luo.net/courses/CSCI659/2022_fall/index.html)
 
-## <a name="7"></a>Notes
+## <a name="7"></a>My Notes
 
 ### <a name="8"></a>Introduction to Algorithms
 
