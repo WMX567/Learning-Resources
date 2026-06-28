@@ -1,5 +1,5 @@
 # Learning Resources
-A collection of books/notes for Math and Algorithm study. All files are in PDF format and saved in this repo. Books are collected from the internet. Some of them are my textbooks, and some of them are references I found particularly useful. Notes are written by myself. I hope these resources are helpful!
+A collection of books/notes for math and algorthm study. Books are collected from the internet. Some of them are my textbooks, and some of them are references I found useful. Notes are written by myself. I hope these resources are helpful.
 
 ## Table of Contents
 
